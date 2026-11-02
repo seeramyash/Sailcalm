@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768389792655",
+    "project_id": "sailmcalm",
+    "storage_bucket": "sailmcalm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768389792655:android:c3da6adc35aae1585141fa",
+        "android_client_info": {
+          "package_name": "com.example.neuro_sense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLyqCWa3wH_2Go3DPgi92oT-YjxvzrYd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

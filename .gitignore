@@ -1,0 +1,31 @@
+# Flutter / Dart generated files
+**/.dart_tool/
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/build/
+**/coverage/
+
+# Android machine-specific / generated files
+**/android/local.properties
+**/android/.kotlin/
+**/*.iml
+
+# Python environments and generated training outputs
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+**/outputs_*/
+**/prepared_*/
+**/device_captures/
+
+# Local credentials and secrets
+**/.env
+**/.env.*
+**/wifi_secrets.h
+**/*.keystore
+**/*.jks
+**/*service-account*.json
+
+# Keep release APK outside regular Git history; attach it to GitHub Releases.
+04_Android_Release/*.apk
